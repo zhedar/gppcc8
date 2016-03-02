@@ -1,12 +1,15 @@
-# gppcc8
-JackDanger Minigames
-
 *Hallo!*  
 Herzlich Willkommen zur 8. Game++ Community Challenge!
 
-Dies ist ein ganz besonderes Projekt, denn nun arbeiten viele Leute an einem Projekt. Und damit alles möglichst reibungsfrei abläuft, musst du ein paar Regeln einhalten.
+Dies ist ein ganz besonderes Projekt, denn nun arbeiten viele Leute an einem Projekt.
+
+## Assets
+Aus diesem Grund ist es auch sinnvoll, unsere verwendeten Assets untereinander zu teilen.  
+Unter `community_assets` befinden sich deswegen einige Assets, die von der Community entworfen wurden. Einige davon sind noch Platzhalter oder Work in Progress, wenn ihr also eine künstlerische Begabung und etwas Lust habt, *fühlt euch dazu eingeladen, diese zu verbessern, abzuwandeln oder daran herumzuprobieren*.  
+Wenn ihr Assets teilen wollt und nicht wisst wie, meldet euch am besten im Discord-Channel (siehe unten).
 
 ## Regeln
+Damit alles möglichst reibungsfrei abläuft, musst du ein paar Regeln einhalten.  
 Du siehst folgende Ordner:  
 * `assets`
 * `games`
@@ -35,7 +38,7 @@ Wenn es eine neue Version dieses Frameworks gibt, sage ich dir Bescheid. (Facebo
 Viel Spaß  
 Tom
 
-#### Hinweise zur `GamePad`-Klasse
+#### Hinweise zur `Pad`-Klasse
 In der `game.js` hast du ein paar Beispiele für die Richtungstasten.
 Insgesamt gibt es:
 * UP
